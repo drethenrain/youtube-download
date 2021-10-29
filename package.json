@@ -1,0 +1,11 @@
+{
+  "name": "youtube-download",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/drethenrain/youtube-download.git",
+  "author": "drethenrain <drethenrain@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "yt-getvideos": "^1.1.0"
+  }
+}
